@@ -1,41 +1,236 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" version="28.0.4">
   <diagram name="第 1 页" id="or1H6w1kSN3DtoS8Jrvq">
-    <mxGraphModel dx="1410" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="972" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-1" value="PassiveMonitoringClient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="220" width="170" height="40" as="geometry" />
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="1330" width="376" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-2" value="MeasureClient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="270" width="170" height="40" as="geometry" />
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-1" value="PassiveMonitoringClient" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="380" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-3" value="ExerciseClient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="320" width="170" height="40" as="geometry" />
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-2" value="MeasureClient" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="430" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-4" value="PassiveMonitoringApiService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="220" width="170" height="40" as="geometry" />
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-3" value="ExerciseClient" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="480" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-5" value="MeasureApiService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="270" width="170" height="40" as="geometry" />
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-4" value="PassiveMonitoringApiService" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="380" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-6" value="ExerciseApiService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="170" height="40" as="geometry" />
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-5" value="MeasureApiService" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="430" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-7" value="UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-6" value="ExerciseApiService" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="480" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-8" value="UiState" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-7" value="UI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-9" value="UiState" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-8" value="UiState" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;The dependency library provided by Google (androidx. health: health-services-client) includes ExerciseCloud, PassiveMonitoringCloud, and MeasureClient&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="280" y="460" width="860" height="50" as="geometry" />
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-9" value="Intent" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZXN4FGuWoJyQtscpt3rk-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;WHS Backend&lt;/h1&gt;&lt;p&gt;WearOS system service (com.google.android.earable.healthservices), communicates with WHS client. Including PassiveMonitoringApiService, MeasureApiService, ExerciseAiService, etc.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="660" width="290" height="120" as="geometry" />
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;The dependency library provided by Google (androidx. health: health-services-client) includes ExerciseCloud, PassiveMonitoringCloud, and MeasureClient&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="540" width="860" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXN4FGuWoJyQtscpt3rk-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;WHS Backend&lt;/h1&gt;&lt;p&gt;WearOS system service (com.google.android.earable.healthservices), communicates with WHS client. Including PassiveMonitoringApiService, MeasureApiService, ExerciseAiService, etc.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="600" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-1" value="Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-2" value="UI&lt;div&gt;(Compose)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-3" value="ViewModel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="790" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-4" value="Repository" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="890" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-5" value="WHS Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="980" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1210" width="190" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-12" value="Exercise List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-13" value="Exercise Preparing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-14" value="Exercising" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-15" value="Exercise Report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-16" value="Exercise Records" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-17" value="Heart Rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-18" value="Sleep" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-19" value="Workout Status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-20" value="AI Corach" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="2610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-21" value="Breath" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3030" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-22" value="UI Layer&lt;div&gt;(Activity\Fragment\Compose)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="111.25" y="1210" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-23" target="gVK-SHgWHHWxs3bkRkGg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-23" value="Exercise List Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1260" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-24" target="gVK-SHgWHHWxs3bkRkGg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-24" value="Exercising Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1300" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-25" target="gVK-SHgWHHWxs3bkRkGg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-25" value="······" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1340" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-26" target="gVK-SHgWHHWxs3bkRkGg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-26" value="Heart Rate Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-27" target="gVK-SHgWHHWxs3bkRkGg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-27" value="Blood Oxygen Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1470" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-28" target="gVK-SHgWHHWxs3bkRkGg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-28" value="Breath Training Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1550" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-29" target="gVK-SHgWHHWxs3bkRkGg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-29" value="······" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1510" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-30" target="gVK-SHgWHHWxs3bkRkGg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-30" value="Exercise Records Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1380" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-31" target="gVK-SHgWHHWxs3bkRkGg-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-31" value="Intent&lt;span style=&quot;color: rgb(179, 179, 179);&quot;&gt;s&lt;/span&gt;&lt;div&gt;(Wrap as Intents)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1370" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-40" value="UIState" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-52" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-51" target="gVK-SHgWHHWxs3bkRkGg-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-53" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-51" target="gVK-SHgWHHWxs3bkRkGg-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-54" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-51" target="gVK-SHgWHHWxs3bkRkGg-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-55" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-51" target="gVK-SHgWHHWxs3bkRkGg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-56" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-51" target="gVK-SHgWHHWxs3bkRkGg-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-57" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-51" target="gVK-SHgWHHWxs3bkRkGg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-58" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-51" target="gVK-SHgWHHWxs3bkRkGg-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-59" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-51" target="gVK-SHgWHHWxs3bkRkGg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-51" value="UIState&lt;span style=&quot;color: rgb(179, 179, 179);&quot;&gt;s&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1460" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-61" value="&lt;div&gt;ViewModel&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="499.5" y="1330" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-62" target="gVK-SHgWHHWxs3bkRkGg-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-62" value="handle Intent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1370" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVK-SHgWHHWxs3bkRkGg-65" target="gVK-SHgWHHWxs3bkRkGg-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1280" width="310" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1664" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-67" value="DataBase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-72" value="Model&lt;span style=&quot;color: rgb(179, 179, 179);&quot;&gt;s&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1950" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-73" value="Model&lt;span style=&quot;color: rgb(179, 179, 179);&quot;&gt;s&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1955" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-74" value="Model&lt;span style=&quot;color: rgb(179, 179, 179);&quot;&gt;s&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1961" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-75" value="Repository" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="935" y="1330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-77" value="&lt;span style=&quot;text-align: start; white-space: pre;&quot;&gt;Companion Service&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-78" value="Custom Datatyps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-82" value="Data Point Files Parser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1475" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-83" value="PassiveMonitoringClient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1694" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-84" value="MeasureClient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1744" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-85" value="ExerciseClient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1794" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-86" value="WHS Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="1664" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVK-SHgWHHWxs3bkRkGg-87" value="WHS Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1370" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
